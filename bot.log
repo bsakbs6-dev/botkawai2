@@ -1,0 +1,21 @@
+2026-09-29 17:52:17 [WARNING] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-09-29 17:52:17 [WARNING] discord.client: davey is not installed, voice will NOT be supported
+2026-09-29 17:52:17 [INFO] kawaii_entrypoint: Подключение к Discord Gateway...
+2026-09-29 17:52:17 [INFO] discord.client: logging in using static token
+2026-09-29 17:52:18 [INFO] kawaii_bot: Initializing database...
+2026-09-29 17:52:18 [INFO] kawaii_bot: Database schema synchronized successfully.
+2026-09-29 17:52:18 [INFO] kawaii_bot: Loading extensions...
+2026-09-29 17:52:18 [INFO] kawaii_bot: Extension kawaii_core.cogs.profile loaded successfully.
+2026-09-29 17:52:18 [INFO] kawaii_bot: Extension kawaii_core.cogs.warns loaded successfully.
+2026-09-29 17:52:18 [INFO] kawaii_bot: Extension kawaii_core.cogs.guard loaded successfully.
+2026-09-29 17:52:18 [INFO] kawaii_bot: Extension kawaii_core.cogs.permissions loaded successfully.
+2026-09-29 17:52:18 [INFO] kawaii_bot: Extension kawaii_core.cogs.staff_list loaded successfully.
+2026-09-29 17:52:18 [INFO] kawaii_bot: Extension kawaii_core.cogs.recruitment loaded successfully.
+2026-09-29 17:52:18 [INFO] kawaii_bot: Extension kawaii_core.cogs.roles loaded successfully.
+2026-09-29 17:52:18 [INFO] kawaii_bot: Extension kawaii_core.cogs.events loaded successfully.
+2026-09-29 17:52:19 [INFO] discord.gateway: Shard ID None has connected to Gateway (Session ID: 9bc0a97a4033bad29ea193bbece88553).
+2026-09-29 17:52:21 [INFO] kawaii_bot: Synchronizing application command tree for guild 1513976150958014534...
+2026-09-29 17:52:21 [INFO] kawaii_bot: Logged in as Kawaii | Main (ID: 1553640450135560262)
+2026-09-29 17:52:21 [INFO] kawaii_bot: Connected to 1 guilds.
+2026-09-29 17:52:21 [INFO] kawaii_bot: Application command tree synchronized (13 commands) for guild 1513976150958014534.
+2026-09-29 17:52:22 [INFO] kawaii_bot: Global commands cleared to prevent duplicates in Discord.
